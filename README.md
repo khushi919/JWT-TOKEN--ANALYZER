@@ -21,7 +21,8 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 ## Usage
 
 1. **Required Python packages can be installed using pip:**
-  ```
+   
+  ```bash
   pip install -r requirements.txt
   ```
 2. **Clone the Repository**
