@@ -17,26 +17,26 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 ## Prerequisites
 
 - Python 3.x installed on your system.
-- Required Python packages can be installed using pip:
-  ```
-  pip install -r requirements.txt
-  ```
 
 ## Usage
 
-1. **Clone the Repository**
+1. **Required Python packages can be installed using pip:**
+  ```
+  pip install -r requirements.txt
+  ```
+2. **Clone the Repository**
 
    ```bash
    git clone https://github.com/khushi919/JWT-TOKEN--ANALYZER.git
    ```
 
-2. **Navigate to the Project Directory**
+3. **Navigate to the Project Directory**
 
    ```bash
    cd JWT-TOKEN--ANALYZER
    ```
 
-3. **Run the Script**
+4. **Run the Script**
 
    Execute the script with Python and follow the prompts:
 
@@ -44,7 +44,7 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
    python3 token_analyzer.py
    ```
 
-4. **Input a JWT Token**
+5. **Input a JWT Token**
 
    Enter a valid JWT token when prompted:
 
@@ -53,7 +53,7 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
    Enter JWT token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkRvZSIsImlhdCI6MTYyMTI4OTIyMX0.YAvpV5Xzf2bt9lB70tqsYis2Go5ZyZcj86joFbw8vYg
    ```
 
-5. **Provide Secret Key (if applicable)**
+6. **Provide Secret Key (if applicable)**
 
    Optionally, provide a secret key to verify the token signature. Press Enter if no secret key is required.
 
@@ -61,7 +61,7 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
    Enter secret key (press Enter if no secret key is required):
    ```
 
-6. **Review Token Information**
+7. **Review Token Information**
 
    The tool will decode the token, display its contents, and verify the signature if a secret key is provided.
 
