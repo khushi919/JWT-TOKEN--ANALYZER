@@ -1,5 +1,4 @@
 
-```markdown
 # JWT Token Analyzer
 
 A simple Python script to analyze JSON Web Tokens (JWT), decode token information, and verify token signatures.
@@ -14,8 +13,8 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 ## Prerequisites
 
 - Python 3.x installed on your system.
-
-## Usage
+- 
+## Installation
 
 1. **Install Required Python Packages**
 
@@ -34,6 +33,8 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
    ```bash
    cd JWT-TOKEN--ANALYZER
    ```
+
+## Usage
 
 4. **Run the Script**
 
