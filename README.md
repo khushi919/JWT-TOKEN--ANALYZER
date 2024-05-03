@@ -82,6 +82,3 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README based on your project's specific details, such as adding more sections for contributors, acknowledgments, or additional usage examples. Replace placeholders like `yourusername` with your GitHub username and adjust paths or commands accordingly. You can include this README.md file at the root of your GitHub repository to provide clear instructions and information about your JWT Token Analyzer tool.
