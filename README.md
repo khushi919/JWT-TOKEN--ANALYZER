@@ -16,23 +16,24 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
   
 ## Installation
 
-1. **Install Required Python Packages**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Clone the Repository**
+1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/khushi919/JWT-TOKEN--ANALYZER.git
    ```
-
-3. **Navigate to the Project Directory**
+   
+2. **Navigate to the Project Directory**
 
    ```bash
    cd JWT-TOKEN--ANALYZER
    ```
+   
+3. **Install Required Python Packages**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
 
 ## Usage
 
