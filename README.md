@@ -13,7 +13,7 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 ## Prerequisites
 
 - Python 3.x installed on your system.
-- 
+  
 ## Installation
 
 1. **Install Required Python Packages**
