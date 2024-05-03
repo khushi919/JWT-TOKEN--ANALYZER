@@ -1,8 +1,5 @@
-# JWT-TOKEN--ANALYZER
-To create a clear README for your GitHub project that explains the JWT Token Analyzer tool and how to use it, you can follow this structure:
 
----
-
+```markdown
 # JWT Token Analyzer
 
 A simple Python script to analyze JSON Web Tokens (JWT), decode token information, and verify token signatures.
@@ -20,11 +17,12 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 
 ## Usage
 
-1. **Required Python packages can be installed using pip:**
-   
-  ```bash
-  pip install -r requirements.txt
-  ```
+1. **Install Required Python Packages**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 2. **Clone the Repository**
 
    ```bash
@@ -82,4 +80,4 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+```
