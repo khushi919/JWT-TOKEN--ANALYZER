@@ -27,13 +27,13 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/jwt-token-analyzer.git
+   git clone https://github.com/khushi919/JWT-TOKEN--ANALYZER.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd jwt-token-analyzer
+   cd JWT-TOKEN--ANALYZER
    ```
 
 3. **Run the Script**
@@ -41,7 +41,7 @@ A simple Python script to analyze JSON Web Tokens (JWT), decode token informatio
    Execute the script with Python and follow the prompts:
 
    ```bash
-   python token_analyzer.py
+   python3 token_analyzer.py
    ```
 
 4. **Input a JWT Token**
